@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RecyclerView Example</string>
+
+    <string-array name="mahasiswa_name">
+        <item>panji</item>
+        <item>sadri</item>
+        <item>farhan</item>
+        <item>chikal</item>
+        <item>lucky</item>
+        <item>arif</item>
+    </string-array>
+
+    <string-array name="mahasiswa_nim">
+        <item>670</item>
+        <item>671</item>
+        <item>672</item>
+        <item>673</item>
+        <item>674</item>
+        <item>675</item>
+    </string-array>
+
+    <string-array name="mahasiswa_image">
+        <item>@drawable/ic_mahasiswa</item>
+        <item>@drawable/ic_mahasiswa</item>
+        <item>@drawable/ic_mahasiswa</item>
+        <item>@drawable/ic_mahasiswa</item>
+        <item>@drawable/ic_mahasiswa</item>
+        <item>@drawable/ic_mahasiswa</item>
+    </string-array>
+
+</resources>
